@@ -1,7 +1,6 @@
 [package]
-name = "regex"
+name = "reading_from_files"
 version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-regex = "1"
