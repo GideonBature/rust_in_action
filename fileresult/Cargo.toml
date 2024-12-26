@@ -1,0 +1,8 @@
+[package]
+name = "fileresult"
+version = "0.1.0"
+authors = ["Gideon Bature <infoaboutgideon@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+rand = "0.8"
