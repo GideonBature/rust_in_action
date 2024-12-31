@@ -1,0 +1,6 @@
+[package]
+name = "cpu_endianness"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
